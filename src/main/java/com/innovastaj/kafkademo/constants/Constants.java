@@ -1,4 +1,4 @@
-package com.innovastaj.kafkademo.Constants;
+package com.innovastaj.kafkademo.constants;
 
 
 

@@ -1,7 +1,7 @@
 package com.innovastaj.kafkademo.services.concretes;
 
 
-import com.innovastaj.kafkademo.Constants.Constants;
+import com.innovastaj.kafkademo.constants.Constants;
 import com.innovastaj.kafkademo.services.abstracts.KafkaConsumerService;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
