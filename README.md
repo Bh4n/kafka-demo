@@ -61,4 +61,5 @@ This project develops a simple messaging system using **Spring Boot** , **Docker
 To send a message, use the following GET request:
 
 ```bash
-http://localhost:8080/send?message=HelloKafka
+curl "http://localhost:8080/send?message=HelloKafka"
+
